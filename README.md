@@ -3,7 +3,7 @@ The most notable projects (and necessary libraries) from my Python class at Hami
 
 ## Pulsar
 This project required the analysis of pulsar data from [the ATNF pulsar catalog](https://www.atnf.csiro.au), in
-hopes of understanding pulsars in the ”vicinity” of earth. The data were contained in a CSV, and our task was to parse the data appropriately and run experiments that print superlatives (such as oldest, closest, and most recently discovered) to the console as well as all of the data associated with that pulsar. Testing is accomlished in the file testing_pulsar.py
+hopes of understanding pulsars in the ”vicinity” of earth. The data were contained in a CSV (data.csv in this repo), and our task was to parse the data appropriately and run experiments that print superlatives (such as oldest, closest, and most recently discovered) to the console as well as all of the data associated with that pulsar. Testing is accomlished in the file testing_pulsar.py
 
 ## Tiling
 A tetris-style tiling game (written using turtle) where the goal is to use "triominoes" to populate a grid. Pressing "t" creates a triomino, "r" rotates it 90 degrees, and movement in two dimensions is controlled via the arrow keys. Pressing "t" again will "place" the triomino on the grid (where it can no longer be moved) and create a new active triomino in the upper-left corner of the grid. Triominoes are not allowed to overlap, and the board has a randomly-placed hole (which guarantees that a solution is possible).
