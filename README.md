@@ -2,7 +2,7 @@
 The most notable projects (and necessary libraries) from my Python class at Hamilton.
 
 ## Pulsar
-This project required the analysis of pulsar data from [the ATNF pulsar catalog](https://www.atnf.csiro.au), in
+This project required the analysis of pulsar data from <a href = "https://www.atnf.csiro.au" target ="_blank">The ATNF Pulsar Catalog</a> in
 hopes of understanding pulsars in the ”vicinity” of earth. The data were contained in a CSV (data.csv in this repo), and our task was to parse the data appropriately and run experiments that print superlatives (such as oldest, closest, and most recently discovered) to the console as well as all of the data associated with that pulsar. Testing is accomlished in the file testing_pulsar.py using the file pulsar_test_data.csv.
 
 ## Tiling
